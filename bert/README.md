@@ -16,6 +16,9 @@
 - **Multi nodes, multi gpus**
   > `todo`
 
+## **Throughput**
+> When the bert training phase is stable, the log shows the throughput of toekens per second, and then sample multiple times (at least 10) to average.
+
 ## **Specify the GPU to use**
 - On NVIDIA gpus, Use CUDA_VISIBLE_DEVICES to specify the GPU visible to the program.
 - On AMD gpus, Use HIP_VISIBLE_DEVICES to specify the GPU visible to the program.
