@@ -11,6 +11,9 @@
 - **Multi nodes, multi gpus**
   > `todo`
 
+## **Throughput**
+> During the training of resnet-50, the log outputs the number of batches trained per second (its/s). After the training phase is stable, sample multiple times (at least 10) to obtain the average value，which is called avg(its/s). Then get the throughput value: imgs/sec = avg(its/s)* batch_size
+
 ## **Specify the GPU to use**
 
 - On NVIDIA gpus, Use CUDA_VISIBLE_DEVICES to specify the GPU visible to the program.
