@@ -1,5 +1,4 @@
 ## **Model**
-- TencentPretrain: https://git.woa.com/TencentNLP/TencentPretrain
 - UER-py: https://github.com/dbiir/UER-py
 
 ## **DATASET**
