@@ -2,7 +2,7 @@
 - DeepSpeech2 for PyTorch: https://github.com/SeanNaren/deepspeech.pytorch
 
 ## **Configuration**
-- Fllow: https://github.com/SeanNaren/deepspeech.pytorch#install
+- Refer: https://github.com/SeanNaren/deepspeech.pytorch#install
 
 ## **DATASET**
 ### train:
