@@ -8,4 +8,4 @@
 - Bert, wiki_zh
 - Deep Speech 2, Libri Speech
 - DLRM, 1TB ClickThrough
-- Minigo, go
+- Alpha zero ~~Minigo, go~~
